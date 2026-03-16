@@ -9,7 +9,7 @@ public class DemoTest {
 public void bikeTest()
 {
 	System.out.println("RE");
-	System.out.println("SHWETHA");
+	System.out.println("ApacheS");
 }
 	
 
