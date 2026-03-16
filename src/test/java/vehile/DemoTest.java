@@ -9,7 +9,7 @@ public class DemoTest {
 public void bikeTest()
 {
 	System.out.println("RE");
-	System.out.println("ApacheSHwetha");
+	System.out.println("ApacheSHweths");
 }
 	
 
